@@ -1,0 +1,15 @@
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\Govind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
